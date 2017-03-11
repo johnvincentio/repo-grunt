@@ -1,0 +1,20 @@
+a {
+  -webkit-transition: -webkit-transform 1s;
+          transition: transform 1s
+}
+
+a {
+  width: calc(50% - 2em)
+}
+
+
+h1 {
+  width: calc(50% - 2em)
+}
+
+
+h2 {
+  width: calc(50% - 2em)
+}
+
+

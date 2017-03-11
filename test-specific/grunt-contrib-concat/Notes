@@ -1,0 +1,17 @@
+
+mkdir src build
+
+start with package.json with no dependencies.
+name = jv
+
+added jv.js to src
+
+remove node_modules
+
+npm install grunt --save-dev
+npm install grunt-contrib-concat --save-dev
+
+grunt
+
+concats the js files in src to dest/all.js
+

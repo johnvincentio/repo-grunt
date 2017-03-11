@@ -1,0 +1,10 @@
+
+start with package.json with no dependencies.
+
+remove node_modules
+
+npm install grunt --save-dev
+npm install autoprefixer-core --save-dev
+npm install grunt-postcss --save-dev
+
+grunt

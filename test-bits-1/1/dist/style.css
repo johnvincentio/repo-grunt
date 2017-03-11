@@ -1,0 +1,44 @@
+a {
+  -webkit-transition: -webkit-transform 1s;
+          transition: transform 1s
+}
+
+a {
+  width: calc(50% - 2em)
+}
+
+
+h1 {
+  width: calc(50% - 2em)
+}
+
+
+h2 {
+  width: calc(50% - 2em)
+}
+
+a {
+  background: -webkit-linear-gradient(bottom, black, white);
+  background: linear-gradient(to top, black, white);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex
+}
+::-webkit-input-placeholder {
+  color: #ccc
+}
+::-moz-placeholder {
+  color: #ccc
+}
+:-ms-input-placeholder {
+  color: #ccc
+}
+::placeholder {
+  color: #ccc
+}
+
+a {
+  border-radius: 5px
+}
+

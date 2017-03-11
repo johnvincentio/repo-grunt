@@ -1,0 +1,14 @@
+
+start with package.json with no dependencies.
+
+mkdir dist
+
+remove node_modules
+
+npm install grunt --save-dev
+npm install grunt-usemin --save-dev
+npm install grunt-contrib-copy grunt-contrib-uglify grunt-contrib-cssmin grunt-filerev --save-dev
+npm install grunt-contrib-concat --save-dev
+npm install grunt-autoprefixer --save-dev
+
+grunt

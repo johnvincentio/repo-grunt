@@ -1,0 +1,31 @@
+a {
+  transition: transform 1s
+}
+
+a {
+  width: calc(50% - 2em)
+}
+
+
+h1 {
+  width: calc(50% - 2em)
+}
+
+
+h2 {
+  width: calc(50% - 2em)
+}
+
+a {
+  background: linear-gradient(to top, black, white);
+  display: flex
+}
+::placeholder {
+  color: #ccc
+}
+
+a {
+  -webkit-border-radius: 5px;
+  border-radius: 5px
+}
+

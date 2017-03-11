@@ -1,0 +1,12 @@
+
+ref:
+https://www.npmjs.com/package/grunt-git
+
+start with package.json with no dependencies.
+
+remove node_modules
+
+npm install grunt --save-dev
+npm install grunt-autoprefixer --save-dev
+
+grunt

@@ -1,0 +1,12 @@
+
+mkdir css dist
+copy .css files to css
+
+start with package.json with no dependencies.
+
+remove node_modules
+
+npm install grunt --save-dev
+
+grunt
+
